@@ -52,14 +52,15 @@ conda activate medai
 pip install -r ai_medical/requirements.txt
 ```
 
-### 3️⃣ Optional models
+### 3️⃣ models
 ```bash
 python -m spacy download en_core_sci_sm
 python -m spacy download en_ner_bc5cdr_md
 ```
-
+### 4 ollama install
 ---
-
+one time setup bash-ollama pull mistral
+---
 ## 🧩 Core Features
 
 1. **End-to-End Clinical Pipeline** — from unstructured PDF → FHIR → Safety analysis  
