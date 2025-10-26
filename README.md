@@ -174,7 +174,7 @@ uvicorn ai_medical.api:app --reload
 
 Developed as part of  
 **ELEC5620 – Medical AI & ML Engineering Project (2025)**  
-**University of Sydney – Group 7 (HACKERJEE)**  
+**University of Sydney – Group 55  
 **Author:** *Saahir Khan*
 
 If used for academic or research purposes, please cite the associated  
